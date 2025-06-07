@@ -10,7 +10,7 @@ I'm a researcher at the University of Illinois at Urbana-Champaign.
 ### 🐾 Hobby
 
 - I love traveling and hiking.
-- I love reading.
+- I love reading and learning new stuff.
 - I love playing sports.
 
 <!--
