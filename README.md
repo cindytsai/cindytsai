@@ -4,6 +4,7 @@ I'm a researcher at the University of Illinois at Urbana-Champaign.
 
 ### 🔭 I’m currently working on ...
 - Bridging high-performance simulations written in C/C++/Fortran to Python and Jupyter ecosystems in high-performance computing clusters.
+- Building volume rendering visualization tool for black hole and gravity.
 - Building data pipelines without execution using LLM and Python AST for transparency and reproducibility. 
 - Building tool-discovery and tool-searching platforms using graphs.
 
