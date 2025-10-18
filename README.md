@@ -6,7 +6,7 @@ I'm a researcher at the University of Illinois at Urbana-Champaign.
 - Bridging high-performance simulations written in **C**/**C++**/**Fortran** to **Python** and **Jupyter** ecosystems in **high-performance computing clusters**.
 - Building **volume rendering visualization tool** using **Mitsuba3** for black hole and gravity.
 - Building data pipelines without execution using LLM and Python AST for transparency and reproducibility, and visualizing it by creating our own Jupyter extension using **ReactFlow**.
-- Building tool-discovery and tool-searching platforms using graphs.
+- Exploring dependency graph.
 
 ### 🐾 Hobby
 
